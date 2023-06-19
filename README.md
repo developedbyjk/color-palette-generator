@@ -1,1 +1,1 @@
-# colorPalleteGenerator
+# colorPaletteGenerator
