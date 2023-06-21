@@ -13,6 +13,9 @@ font-family: 'Inter', sans-serif;
 height: 100vh;
 width: 100%;
 overflow: hidden;
+    -webkit-user-select: none; /* Safari */
+  -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none; /* Standard syntax */
 }
 
 #nav{
@@ -61,7 +64,7 @@ button, select{
 }
 #color-type{
     width: 100%;
-    /* background-color: teal; */
+    background-color:;
 }
 
 
@@ -162,11 +165,12 @@ grid-row-gap: 0px;
 
     #color, #color-type, #btn{
         height: 50px;
+        background-color: #f7f9f9ff;
     }
 
     #random2{
         position: absolute;
-        top: 82%;
+        top: 80%;
         /* bottom:15%;
         right:5%; */
         z-index: 99;
