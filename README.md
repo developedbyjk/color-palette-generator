@@ -51,3 +51,6 @@ Feedback, suggestions, and contributions are welcome!ðŸ˜Š If you have any ideasð
 [![GitHub stars](https://img.shields.io/github/stars/developedbyjk/color-palette-generator.svg?style=social)](https://github.com/developedbyjk/color-palette-generator/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/developedbyjk/color-palette-generator.svg?style=social)](https://github.com/developedbyjk/color-palette-generator/network/members)
 [![GitHub issues](https://img.shields.io/github/issues/developedbyjk/color-palette-generator.svg)](https://github.com/developedbyjk/color-palette-generator/issues)
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5b1699a6-506c-45a3-a1d8-7accd35206a5/deploy-status)](https://app.netlify.com/sites/color-palette-generator-developedbyjk/deploys)
