@@ -1,3 +1,4 @@
+
 # Color Palette Generator 🎨
 
 The Color Palette Generator🎨 is a web-based application that allows users to generate color palettes🧩 based on a selected color and color scheme type. 🎀It provides a simple and intuitive interface for users to explore different color combinations and obtain the corresponding hex values.#️⃣ Need Inspiration for color Palette just click 'Random✨' button.  Whether you're a designer, developer, or simply someone looking for color inspiration, this tool can assist you in creating visually appealing color schemes.  🌈
